@@ -4,7 +4,7 @@ Bafstu Internship at LUMC, Human Genetics, BioSemantics Group
 The used scripts are mostly written in R which is a statistical programming language which is available to download at https://cran.r-project.org/bin/windows/base/. 
 An open-source program named Rstudio(https://www.rstudio.com/) has been used to create and run the created scripts. 
 
-For performing the normalization on the data, the following script was used:
+For performing the normalization on the data, the following script has been used:
   
     Normalization_MDX_Data_Final.R
     
