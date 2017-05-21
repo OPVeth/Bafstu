@@ -102,7 +102,6 @@ createPathwayMappingFile <- function(mousePathways){
   return(dataPathwayGenes)
 }
 
-## From: Ekrem Sabir's code: GT_Mouse_meta_WestfallYoung_final.R
 getPathways <- function(dataTissue, dataPathwayGenes){
   # The following parameters are loaded in:
   #     dataTissue: a data frame containing count data
