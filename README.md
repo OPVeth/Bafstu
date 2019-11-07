@@ -1,4 +1,4 @@
-# ""
+# "Detection biomarkers in blood in the mouse model of Duchenne muscular dystrophy using WGCNA"
 Bafstu Internship at LUMC, Human Genetics, BioSemantics Group
 
 The used scripts are mostly written in R which is a statistical programming language which is available to download at https://cran.r-project.org/bin/windows/base/. 
